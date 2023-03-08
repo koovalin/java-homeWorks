@@ -7,7 +7,7 @@ public class homeWork_1 {
 
     }
 
-    private static void minAndMaxInArr(int someArr[]) {
+    private static void minAndMaxInArr(int[] someArr) {
         int max = someArr[0];
         int min = someArr[0];
         for (int i: someArr){
