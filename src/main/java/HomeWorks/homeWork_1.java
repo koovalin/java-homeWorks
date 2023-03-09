@@ -4,7 +4,6 @@ public class homeWork_1 {
     public static void main(String[] args) {
         int[] array = new int[]{552, 284, 552, 738, 839, 555, 334};
         minAndMaxInArr(array);
-
     }
 
     private static void minAndMaxInArr(int[] someArr) {
